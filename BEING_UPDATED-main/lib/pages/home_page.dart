@@ -86,11 +86,6 @@ class _HomePageState extends State<HomePage> {
             const SizedBox(height: 16),
             const Text(
               "Top News",
-              style: TextStyle(
-                color: Palette.deepBlue,
-                fontSize: 20,
-                fontWeight: FontWeight.bold,
-              ),
             ),
             const SizedBox(height: 16),
             Expanded(
